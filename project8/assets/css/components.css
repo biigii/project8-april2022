@@ -1,12 +1,13 @@
-/* img {
-  height: 100vh;
-  width: 100vw;
-} */
-
-.box {
-  width: 400px;
-  height: 400px;
-  border: 5px solid #0477e9;
-  margin: 20px auto;
-  box-shadow: -10px -10px 10px rgb(0, 0, 0);
+.background {
+  width: 500px;
+  height: 500px;
+  outline: 2px solid #000;
+  /* background-image: url('https://picsum.photos/id/1081/200/400');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; */
+  /* background: linear-gradient(black, red, yellow, blue, green, pink, orange, gold); */
+  /* background: linear-gradient(blue 50%, yellow 50%); */
+  /* background: radial-gradient(yellow, yellow 30%, black 30%, black 70%, red 70%, red); */
+  /* background: linear-gradient(red, red 20%, black 20%, black 50%, blue 50%, blue); */
 }
